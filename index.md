@@ -2,6 +2,22 @@
 layout: default
 ---
 
+![Branching](/assets/img/logo-preto.png)
+
+## Missão
+
+## Notícias
+
+## Publicações 
+
+## Equipe 
+
+## Parceiros
+
+
+## (temporario) Dicas para escrever em markdown:
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
