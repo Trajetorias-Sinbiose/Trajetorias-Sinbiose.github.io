@@ -12,15 +12,11 @@ Integra o Centro de Sínteses em Biodiversidade do CNPq ([SinBiose](http://www.s
 
 ## Podcast 
 
-<img align="left" src="images/podcast-logo.png" alt="My Image">
+![Branching](images/podcast-logo.png)
 
 Acompanhe o Podcast [*Nas trajetórias do SinBiose*](https://open.spotify.com/show/1hBMRZolQvwUdQy6SnconS)!
 
-Assista entrevistas sobre as análises feitas por nossos pesquisadores sobre as trajetórias observadas na Amazônia. 
-
-- Episódio 1. Por dentro do Trajetórias SinBiose
-- Episódio 2. Sobre as trajetórias tecnoprodutivas da Amazônia
-- Episódio 3. Impacto Ecológico do Desmatamento na Amazônia
+Assista entrevistas sobre as análises feitas por nossos pesquisadores sobre as trajetórias observadas na Amazônia. Acaba de ir ao ar o Episódio 3! Impacto Ecológico do Desmatamento na Amazônia,no qual Marcelle Chagas entrevista Cecilia Andreazzi (Fiocruz) e Maria Isabel Escada (INPE).
 
 
 ## Publicações 
