@@ -27,6 +27,10 @@ Assista entrevistas sobre as análises feitas por nossos pesquisadores sobre as 
 
 ## Publicações 
 
+### Publicações científicas
+
+Em 2021, publicamos na Frontiers in Public Health, o primeiro artigo de síntese do Trajetórias. Entitulado ["Epidemiology, Biodiversity, and Technological Trajectories in the Brazilian Amazon: From Malaria to COVID-19"](https://doi.org/10.3389/fpubh.2021.647754). Este artigo investiga a distribuição das Trajetórias tecnoprodutivas (TTs) dominantes da Amazônia brasileira e sua associação com degradação ambiental e vulnerabilidade a doenças tropicais negligenciadas. Os resultados desafiam visões simplistas de que a trajetória dominante de desenvolvimento da Amazônia otimizará indicadores econômicos, de saúde e ambientais. Essa abordagem estabelece as bases para uma narrativa mais integrada e consistente com a história econômica da Amazônia brasileira. 
+
 ## Equipe 
 
 ## Parceiros
