@@ -12,7 +12,9 @@ Integra o Centro de Sínteses em Biodiversidade do CNPq ([SinBiose](http://www.s
 
 ## Notícias
 
-Acompanhe o Podcast *Nas trajetórias do SinBiose*!
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+Acompanhe o Podcast [*Nas trajetórias do SinBiose*](https://open.spotify.com/show/1hBMRZolQvwUdQy6SnconS)!
 
 - Episódio 1. Apresentação do Projeto Trajetórias, com Claudia Codeço (Fiocruz) e Miguel Monteiro (INPE).
 - Episódio 2. Trajetórias econômicas da Amazônia, com Danilo Fernandes (UFPA) e Miguel Monteiro (INPE).
