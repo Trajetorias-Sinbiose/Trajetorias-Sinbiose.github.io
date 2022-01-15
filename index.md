@@ -22,8 +22,6 @@ Assista entrevistas sobre as análises feitas por nossos pesquisadores sobre as 
 - Episódio 2. Sobre as trajetórias tecnoprodutivas da Amazônia
 - Episódio 3. Impacto Ecológico do Desmatamento na Amazônia
 
-***
-***
 
 ## Publicações 
 
