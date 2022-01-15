@@ -6,7 +6,17 @@ layout: default
 
 ## Missão
 
+**Trajetórias** é uma iniciativa de produção de sínteses científicas para integração do conhecimento a cerca da região Amazônica brasileira, em suas dimensões econômicas, humanas, ecológicas e epidemiológicas. O objetivo é desenvolver métodos para vincular desfechos de saúde aos serviços ecossistêmicos prestados pelo bioma Amazônia, e sua relação com as trajetórias concorrentes de uso da terra. 
+
+Integra o Centro de Sínteses em Biodiversidade do CNPq ([SinBiose](http://www.sinbiose.cnpq.br/web/sinbiose)).  
+
 ## Notícias
+
+Acompanhe o Podcast *Nas trajetórias do SinBiose*!
+
+- Episódio 1. Apresentação do Projeto Trajetórias, com Claudia Codeço (Fiocruz) e Miguel Monteiro (INPE).
+- Episódio 2. Trajetórias econômicas da Amazônia, com Danilo Fernandes (UFPA) e Miguel Monteiro (INPE).
+- Episódio 3. Trajetórias ambientais da Amazônia e saúde, com Cecilia Andreazzi (Fiocruz) e Maria Isabel Escada (INPE)  
 
 ## Publicações 
 
