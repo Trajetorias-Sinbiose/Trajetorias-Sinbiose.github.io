@@ -27,6 +27,20 @@ Em 2021, publicamos na Frontiers in Public Health, o primeiro artigo de síntese
 
 ## Equipe 
 
+**Fiocruz:** Claudia T. Codeço, Cecilia Andreazzi, Raquel Lana, Isabel Reis, Tatiana Neves, Milton Barbosa
+
+**INPE:** Miguel Monteiro, Isabel Escada, Ana Paula dal'Asta, Ana Rorato
+
+**UFPA:** Danilo Fernandes 
+
+**UNIFESSPA**: Danuzia Rodrigues
+
+**UFAC:** Monica Silva-Nunes
+
+**Serviço Florestal Brasileiro:** Alexandre Gontijo
+
+**FGV:** Flavio Coelho
+
 ## Parceiros
 
 
