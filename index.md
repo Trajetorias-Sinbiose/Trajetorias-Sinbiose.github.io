@@ -10,15 +10,20 @@ layout: default
 
 Integra o Centro de Sínteses em Biodiversidade do CNPq ([SinBiose](http://www.sinbiose.cnpq.br/web/sinbiose)).  
 
-## Notícias
+## Podcast 
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+<img align="left" src="images/podcast-logo.png" alt="My Image">
 
 Acompanhe o Podcast [*Nas trajetórias do SinBiose*](https://open.spotify.com/show/1hBMRZolQvwUdQy6SnconS)!
 
-- Episódio 1. Apresentação do Projeto Trajetórias, com Claudia Codeço (Fiocruz) e Miguel Monteiro (INPE).
-- Episódio 2. Trajetórias econômicas da Amazônia, com Danilo Fernandes (UFPA) e Miguel Monteiro (INPE).
-- Episódio 3. Trajetórias ambientais da Amazônia e saúde, com Cecilia Andreazzi (Fiocruz) e Maria Isabel Escada (INPE)  
+Assista entrevistas sobre as análises feitas por nossos pesquisadores sobre as trajetórias observadas na Amazônia. 
+
+- Episódio 1. Por dentro do Trajetórias SinBiose
+- Episódio 2. Sobre as trajetórias tecnoprodutivas da Amazônia
+- Episódio 3. Impacto Ecológico do Desmatamento na Amazônia
+
+***
+***
 
 ## Publicações 
 
