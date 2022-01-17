@@ -27,6 +27,8 @@ Em 2021, publicamos na Frontiers in Public Health, o primeiro artigo de síntese
 
 ## Equipe 
 
+A equipe é formada por pesquisadores e estudantes das instituições de pesquisa abaixo, compondo um grupo com formação em saúde, ambiente, economia, sociologia, geografia, modelagem de dados e comunicação. 
+
 **Fiocruz:** Claudia T. Codeço, Cecilia Andreazzi, Raquel M. Lana, Isabel C. Reis, Tatiana Neves, Milton Barbosa, Marcelle Chagas
 
 **INPE:** Antonio Miguel V. Monteiro, Maria Isabel Escada, Ana Paula dal'Asta, Ana C.Rorato, Anielli R. de Souza
