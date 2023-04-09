@@ -28,9 +28,16 @@ In 2021, we published the conceptual paper ["Epidemiology, Biodiversity, and Tec
 
 In feb 2023, the datapaper ["Trajetorias: a dataset of environmental, epidemiological, and economic indicators for the Brazilian Amazon"](https://www.nature.com/articles/s41597-023-01962-1) was published. The Trajetorias dataset is a harmonized set of environmental, epidemiological, and poverty indicators for all municipalities of the Brazilian Legal Amazon. The indicators allows for analyzing the spatial and temporal relationship between economic trajectories linked to the agrarian systems’ dynamics, habitat fragmentation and disease risk.  
 
-## Equipe 
+## Workshops
 
-A equipe é formada por pesquisadores e estudantes das instituições de pesquisa abaixo, compondo um grupo com formação em saúde, ambiente, economia, sociologia, geografia, modelagem de dados e comunicação. 
+###Belém workshop - November 2023
+
+###Rio de Janeiro workshop - 12-14 April
+
+
+## Team
+
+This is an interdisciplinary group composed by researchers and students from several institutions with expertise in health, ecology, geography, economy, social siences, modeling, communication. 
 
 **Fiocruz:** Claudia T. Codeço, Cecilia Andreazzi, Raquel M. Lana, Isabel C. Reis, Tatiana Neves, Milton Barbosa, Marcelle Chagas
 
@@ -40,12 +47,9 @@ A equipe é formada por pesquisadores e estudantes das instituições de pesquis
 
 **UNIFESSPA**: Danuzia Rodrigues
 
-**UFAC:** Monica Silva-Nunes, Wendrio 
+**UFSCAR:** Monica Silva-Nunes
 
 **Serviço Florestal Brasileiro:** Alexandre Gontijo
 
 **FGV:** Flavio Coelho
-
-
-
 
