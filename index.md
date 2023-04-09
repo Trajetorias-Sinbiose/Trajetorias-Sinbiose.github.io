@@ -4,26 +4,29 @@ layout: default
 
 ![Branching](/assets/img/logo-preto.png)
 
-## Missão
+## Mission
 
-**Trajetórias** é uma iniciativa de produção de sínteses científicas para integração do conhecimento a cerca da região Amazônica brasileira, em suas dimensões econômicas, humanas, ecológicas e epidemiológicas. O objetivo é desenvolver métodos para vincular desfechos de saúde aos serviços ecossistêmicos prestados pelo bioma Amazônia, e sua relação com as trajetórias concorrentes de uso da terra. 
+**Trajetórias** seeks to integrate knowledge about the Brazilian Amazon region, in its economic, human, ecological and epidemiological dimensions. The aim is to develop methods for linking health outcomes to the ecosystem services provided by the Amazon biome, and their relationship to competing land use trajectories.
 
-Integra o Centro de Sínteses em Biodiversidade do CNPq ([SinBiose](http://www.sinbiose.cnpq.br/web/sinbiose)).  
+This project is supported by the CNPq's Scientific Synthesis in Biodiversity Center ([SinBiose](http://www.sinbiose.cnpq.br/web/sinbiose)).  
 
 ## Podcast 
 
 ![Branching](images/podcast-logo.png)
 
-Acompanhe o Podcast [*Nas trajetórias do SinBiose*](https://open.spotify.com/show/1hBMRZolQvwUdQy6SnconS)!
+Follow the Podcast [*Nas trajetórias do SinBiose*](https://open.spotify.com/show/1hBMRZolQvwUdQy6SnconS)!
 
-Assista entrevistas sobre as análises feitas por nossos pesquisadores sobre as trajetórias observadas na Amazônia. Acaba de ir ao ar o Episódio 3! Impacto Ecológico do Desmatamento na Amazônia,no qual Marcelle Chagas entrevista Cecilia Andreazzi (Fiocruz) e Maria Isabel Escada (INPE).
+Listen to the interviews about the analyzes made by our researchers on the trajectories observed in the Amazon. 
 
+Episode 4! Researchers Ana Rorato (INPE), Ana Paula Dal'Asta (INPE) and Raquel Lana (Fiocruz) are the data hunters. The "Trajetorias" project depends on the ability to extract knowledge from multiple data sources for the elaboration of a synthesis that involves social, economic and health aspects. This is far from trivial work and requires multiple challenges. In this episode, we talk to the professionals about the frustrations, successes and challenges of this activity.
 
-## Publicações 
+## Publications
 
-### Publicações científicas
+###Scientific publications
 
-Em 2021, publicamos na Frontiers in Public Health, o primeiro artigo de síntese do Trajetórias. Entitulado ["Epidemiology, Biodiversity, and Technological Trajectories in the Brazilian Amazon: From Malaria to COVID-19"](https://doi.org/10.3389/fpubh.2021.647754). Este artigo investiga a distribuição das Trajetórias tecnoprodutivas (TTs) dominantes da Amazônia brasileira e sua associação com degradação ambiental e vulnerabilidade a doenças tropicais negligenciadas. Os resultados desafiam visões simplistas de que a trajetória dominante de desenvolvimento da Amazônia otimizará indicadores econômicos, de saúde e ambientais. Essa abordagem estabelece as bases para uma narrativa mais integrada e consistente com a história econômica da Amazônia brasileira. 
+In 2021, we published the conceptual paper ["Epidemiology, Biodiversity, and Technological Trajectories in the Brazilian Amazon: From Malaria to COVID-19"](https://doi.org/10.3389/fpubh.2021.647754). This article investigates the distribution of dominant technoproductive trajectories (TTs) in the Brazilian Amazon and their association with environmental degradation and vulnerability to neglected tropical diseases. The results challenge simplistic views that the dominant trajectory of development in the Amazon will optimize economic, health and environmental indicators. This approach lays the groundwork for a narrative that is more integrated and consistent with the economic history of the Brazilian Amazon.
+
+In feb 2023, the datapaper ["Trajetorias: a dataset of environmental, epidemiological, and economic indicators for the Brazilian Amazon"](https://www.nature.com/articles/s41597-023-01962-1) was published. The Trajetorias dataset is a harmonized set of environmental, epidemiological, and poverty indicators for all municipalities of the Brazilian Legal Amazon. The indicators allows for analyzing the spatial and temporal relationship between economic trajectories linked to the agrarian systems’ dynamics, habitat fragmentation and disease risk.  
 
 ## Equipe 
 
